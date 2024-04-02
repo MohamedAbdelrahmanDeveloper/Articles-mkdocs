@@ -1,5 +1,4 @@
-site_name: MkDocs YouTube Tutorial
-site_url: https://james-willett.github.io/mkdocs-material-youtube-tutorial/
+site_name: مقالات
 theme:
   name: material
   features:
@@ -18,23 +17,14 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: blue
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: blue
       accent: lime
-
-extra:
-  alternate:
-    - name: عربي
-      link: /ar/
-      lang: ar
-    - name: English
-      link: /en/ 
-      lang: en
 
 copyright: |
   &copy; 2023 <a href="https://github.com/james-willett"  target="_blank" rel="noopener">James Willett</a>
